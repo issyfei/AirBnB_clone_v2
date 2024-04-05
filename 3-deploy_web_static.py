@@ -12,6 +12,7 @@ from os.path import exists, isdir
 
 env.hosts = ["54.81.255.86", "100.26.166.24"]
 
+
 def do_pack():
     """generates a tgz archive"""
     try:
